@@ -1,0 +1,59 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.ContosoPizza.iml
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Log files
+*.log
+
+# Build directories
+bin/
+obj/
+
+# Publish directories
+publish/
+out/
+
+# Environment-specific configuration files
+appsettings.Development.json
+appsettings.Local.json
+
+# Visual Studio-specific files and directories
+.vs/
+*.user
+*.suo
+
+# Backup files
+*.bak
+*.tmp
+
+# System files
+Thumbs.db
+.DS_Store
+
+# NuGet package directories
+packages/
+*.nupkg
+
+# Temporary test results
+TestResults/
+
+# Rider-specific directories
+.idea/
+.idea_modules/
+
+# VSCode-specific directory
+.vscode/
+
+# Operating system-specific files
+*.swp
+*.swo
